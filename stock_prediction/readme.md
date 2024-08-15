@@ -10,7 +10,13 @@
 
 #### 사용툴
 
-python 3.7 , LSTM, VAR, 
+python 3.7.7 , Tensorflow, Scikit-learn
+
+#### 연구 상세 내용
+
+아래 URL을 통해 연구 배경과 연구 방법에 대한 상세 내용을 확인하실 수 있습니다.
+
+https://malleable-slayer-2fc.notion.site/be1301b8591d437e93bcc5bc4afa9590?pvs=4
 
 ---
 #### 파일별 설명 
