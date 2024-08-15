@@ -12,6 +12,11 @@
 
 python 3.7 , matplotlib
 
+#### 연구 상세 내용
+아래 URL을 통해 연구 배경과 연구 방법에 대한 상세 내용을 확인하실 수 있습니다. 
+
+https://malleable-slayer-2fc.notion.site/XAI-560da20b269b47a6b49aac65966ffdfc?pvs=4
+
 ---
 #### 파일별 설명 
 stockdata_download.ipynb  : 주식 데이터 다운로드 코드 
