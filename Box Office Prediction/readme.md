@@ -18,6 +18,7 @@
 
 #### 연구 상세 내용
 아래 URL을 통해 연구 배경과 연구 방법에 대한 상세 내용을 확인하실 수 있습니다. 
+
 https://malleable-slayer-2fc.notion.site/34b527647fdc4d12a9eb1f210b16b4c7?pvs=4
 
 ---
