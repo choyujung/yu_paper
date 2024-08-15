@@ -8,6 +8,13 @@
 
 20.12 ~ 21.06
 
+#### 수행 역할 
+- 데이터 수집 ( Python 라이브러리활용, Google Trend 데이터 수집)
+- 데이터 가공 및 전처리
+- LSTM, VAR 모델 구현
+- 결과해석
+- 논문작성 
+
 #### 사용툴
 
 python 3.7.7 , Tensorflow, Scikit-learn
